@@ -65,4 +65,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Built with Flutter and love ❤️**
+**Built with Flutter...
