@@ -1,6 +1,8 @@
 # Recipe Card Viewer 🍽️
 
-A modern and responsive Flutter app that displays a collection of beautiful recipe cards in a grid layout. Tapping a card reveals a detailed view with an image, title, and description using Hero animation and a SliverAppBar. Built for both learning and showcasing Flutter UI capabilities.
+A modern and responsive Flutter app that displays a collection of beautiful recipe cards in a grid layout. 
+Tapping a card reveals a detailed view with an image, title, and description using Hero animation and a SliverAppBar. 
+Built for both learning and showcasing Flutter UI capabilities.
 
 ---
 
@@ -27,7 +29,7 @@ A modern and responsive Flutter app that displays a collection of beautiful reci
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/recipe_card_viewer.git
+   git clone https://github.com/bektas-sari/recipe_card_viewer.git
    cd recipe_card_viewer
    ```
 
@@ -40,12 +42,6 @@ A modern and responsive Flutter app that displays a collection of beautiful reci
    ```bash
    flutter run
    ```
-
----
-
-## 📸 Screenshots
-
-> Coming soon: Add GIFs or screenshots of the main screen and detail view.
 
 ---
 
