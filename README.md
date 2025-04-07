@@ -55,7 +55,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Have questions or feedback?
 - GitHub Issues
-- Email: yourname@example.com
+- Email: bektas.sari@gmail.com
 
 ---
 
