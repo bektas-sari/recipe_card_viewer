@@ -53,6 +53,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## ✉️ Contact
 
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 ---
 
