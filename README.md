@@ -1,4 +1,4 @@
-# Recipe Card Viewer 🍽️
+# Recipe Card Viewer 🍽️ (Flutter APP)
 
 A modern and responsive Flutter app that displays a collection of beautiful recipe cards in a grid layout. 
 Tapping a card reveals a detailed view with an image, title, and description using Hero animation and a SliverAppBar. 
