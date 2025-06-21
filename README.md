@@ -53,9 +53,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## ✉️ Contact
 
-Have questions or feedback?
-- GitHub Issues
-- Email: bektas.sari@gmail.com
 
 ---
 
